@@ -7,6 +7,7 @@ Simple Flickr Search App with endless scrolling.
 3. Rune the FlickSearch target.
 
 # If given more time, the things to improve are:
+- There is a UI bug when switching from portrait to landscape. The current visible images do not resize properly.
 - More user facing Error handling.
 - Proper exception handling.
 - The image views were set to Content Aspect Fill mode for uniformity's sake. This crops out some parts of the images.
